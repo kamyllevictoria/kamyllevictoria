@@ -1,9 +1,9 @@
-## About me  :
+## 😺About me  :
 <p>Hello, welcome to my github profile!</p>
 <p>I'm a beginner in programming, now I'm studying front-end languages ​​and concepts, such as HTML, CSS and JavaScript.</p>
-<p>In constant learning1</p>
+<p>In constant learning! Open for studies! </p>
 
-## Hobbies:
+## 💕Hobbies:
 
 <ul>
     <li> Gym</li>
@@ -13,7 +13,7 @@
 </ul>
 <p></p>
 
-## Skills:
+## 📚Skills:
 
 <div style="display: inline_block"><br>
 <img width="40em"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
