@@ -22,6 +22,9 @@
     <li>
     Watching romantic animes.
   </li>
+  <li>
+    Read articles in English.
+  </li>
 </p>
 
 
