@@ -1,40 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+everyone!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF0F5&size=35&center=true&vCenter=true&width=1000&lines=Hello+everyone!+:%29)](https://git.io/typing-svg)
 
+<img src="https://github.com/kamyllevictoria/kamyllevictoria/assets/127050824/4b5f323b-f336-44cf-91a6-2928e277761c"/> 
 
-## About me:
-<p>
- Passionate about programming and in constant learning.
-</p>
+<h1>About me:</h1>
+    <p> Passionate about programming and in constant learning</p>
+<h1>Hobbies:</h1>
+   <p>
+       <li>Study on rainy days.</li>
+       <li>Go to the gym.</li>
+       <li>Bake some cookies.</li>
+       <li>Watching romantic animes.</li>
+   </p>
 
-## Hobbies:
-<p>
-  <li>
-    Study on rainy days.
-  </li>
-    <li>
-    Go to the gym.
-  </li>
-    <li>
-    Bake some cookies.
-  </li>
-    <li>
-    Watching romantic animes.
-  </li>
-  <li>
-    Read articles in English.
-  </li>
-</p>
+<a href="#">
+<img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=kamyllevictoria&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=F8F8FF&bg_color=0d1117" alt="kamylle stats"/> 
+</a>
+
+<a href="#">
+<img width="41%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamyllevictoria&layout=compact&hide_border=true&title_color=FF69B4&text_color=F8F8FF&bg_color=0d1117"/>
+</a>
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamyllevictoria&show_icons=true&count_private=true&hide_border=true&title_color=FA8072&icon_color=FA8072&text_color=F8F8FF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamyllevictoria&layout=compact&hide_border=true&title_color=FA8072&text_color=F8F8FF&bg_color=0d1117" />
-</div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamyllevictoria&bg_color=0d1117&color=F8F8FF&line=FA8072&point=F8F8FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamyllevictoria&bg_color=0d1117&color=FF69B4&line=FFC0CB&point=F8F8FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
