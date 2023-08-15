@@ -5,7 +5,7 @@
 
 ## About me:
 <p>
-  A programming student with an emphasis on front-end and data analysis!
+ Passionate about programming and in constant learning.
 </p>
 
 ## Hobbies:
