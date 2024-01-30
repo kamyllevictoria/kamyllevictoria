@@ -10,8 +10,8 @@
    <p>
        <li>Study on rainy days.</li>
        <li>Go to the gym.</li>
-       <li>Bake some cookies.</li>
-       <li>Watching romantic animes.</li>
+       <li>Bake some vanilla cookies.</li>
+       <li>Watching romantic animes with my boyfriend.</li>
    </p>
 
 <a href="#">
