@@ -5,7 +5,7 @@
 <img src="https://github.com/kamyllevictoria/kamyllevictoria/assets/127050824/4b5f323b-f336-44cf-91a6-2928e277761c"/> 
 
 <h1>🌸About me:🌸</h1>
-    <p> Passionate about programming and in constant learning!</p>
+    <p> Hello, welcome to my github profile! Here I update my studies in software development!</p>
 <h1>🐈Hobbies:🐈</h1>
    <p>
        <li>Study on rainy days.</li>
