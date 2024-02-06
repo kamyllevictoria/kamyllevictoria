@@ -1,12 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF0F5&size=35&center=true&vCenter=true&width=1000&lines=Hello+everyone!+:%29)](https://git.io/typing-svg)
 
-<img src="https://github.com/kamyllevictoria/kamyllevictoria/assets/127050824/4b5f323b-f336-44cf-91a6-2928e277761c"/> 
-
-<h1>🌸About me:🌸</h1>
+<h1>🌸About me:</h1>
     <p> Hello, welcome to my github profile! Here I update my studies in software development!</p>
-<h1>🐈Hobbies:🐈</h1>
+<h1>🐈Hobbies:</h1>
    <p>
        <li>Study on rainy days.</li>
        <li>Go to the gym.</li>
@@ -32,7 +30,7 @@
  </div>
 
  
-## 🛠️Skills🛠️:
+## 🛠️Skills🛠:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
