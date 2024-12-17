@@ -4,10 +4,14 @@
 
 <h1>🌸About me:</h1>
     <p> Hello, welcome to my github profile! Here I update my studies in software development!</p>
-<h1>🐈Hobbies:</h1>
+<h1>🌸Tecnologias:</h1>
    <p>
-       <li>Study on rainy days.</li>
-       <li>Go to the gym.</li>
+       <li>JavaScript</li>
+       <li>CSS com Bootstrap</li>
+       <li>Java</li>
+       <li>TypeScript</li>
+       <li>MySQL e SQL</li>
+       
 
    </p>
 
