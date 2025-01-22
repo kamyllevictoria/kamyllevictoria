@@ -6,11 +6,11 @@
     <p> Hello, welcome to my github profile! Here I update my studies in software development!</p>
 <h1>🌸Tecnologias:</h1>
    <p>
-       <li>JavaScript</li>
-       <li>CSS com Bootstrap</li>
-       <li>Java</li>
+       <li>Angular</li>
        <li>TypeScript</li>
+       <li>Java</li>
        <li>MySQL e SQL</li>
+       <li>PHP</li>
        
 
    </p>
