@@ -3,17 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F08080&size=35&center=true&vCenter=true&width=1000&lines=Hello+everyone!+:%29)](https://git.io/typing-svg)
 
 <h1>🌸About me:</h1>
-    <p> Hello, welcome to my github profile! Here I update my studies in software development!</p>
-<h1>🌸Tecnologias:</h1>
+    <p> Hello, welcome to my github profile! Here I update my studies in fullstack software development!</p>
+<h1>🌸Technologies:</h1>
    <p>
-       <li>Angular</li>
-       <li>TypeScript</li>
-       <li>Java</li>
-       <li>Spring</li>
-       <li>MySQL e SQL</li>
-       <li>PHP</li>
-       
-
+       <li>Backend with Java + Spring, TypeScript, MySQL and SQL.</li>
+       <li>Frontend with Angular, HTML and CSS/SCSS</li>
    </p>
 
 <a href="#">
