@@ -6,8 +6,10 @@
     <p> Hello, welcome to my github profile! Here I update my studies in fullstack software development!</p>
 <h1>🌸Technologies:</h1>
    <p>
-       <li>Backend with Java + Spring, TypeScript, MySQL and SQL.</li>
+       <li>Backend with Java + Spring, TypeScript, Node.js and PHP.</li>
+       <li>DataBase with MySQL and SQL</li>
        <li>Frontend with Angular, HTML and CSS/SCSS</li>
+       
    </p>
 
 <a href="#">
