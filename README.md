@@ -7,9 +7,9 @@
 <h1>🌸Technologies:</h1>
    <p>
        <li>Backend with Java + Spring, TypeScript, Node.js and PHP.</li>
-       <li>DataBase with MySQL and SQL</li>
-       <li>Frontend with Angular, HTML and CSS/SCSS</li>
-       
+       <li>DataBase with MySQL, SQL, MongoDB, MariaDB e Postgresql</li>
+       <li>Frontend with Angular</li>
+       <li>Container management and testing with Docker</li>
    </p>
 
 <a href="#">
